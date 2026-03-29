@@ -148,3 +148,4 @@ This project is licensed under the [Apache License 2.0](https://github.com/hiero
 ---
 
 **Latest release:** Check [PyPI](https://pypi.org/project/hiero-sdk-python/) or [GitHub Releases](https://github.com/hiero-ledger/hiero-sdk-python/releases)
+Conribution added by Jay
